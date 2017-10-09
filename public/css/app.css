@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);.navbar {
+  margin-bottom: 0;
+}
+
+.big-padding {
+  padding: 30px;
+}
+
+.top-space {
+  margin-top: 1em;
+}
+
+.blue-grey {
+  background-color: #37474f;
+}
+
+.white-text {
+  color: #ffffff;
+}
+
+.table {
+  background-color: #ffffff;
+}
+
+.white {
+  background-color: #ffffff;
+}
+
+.floating {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  z-index: 100;
+}
+
+.red-text {
+  color: #ff0000;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.no-transform {
+  text-transform: none;
+}
+
+.product {
+  width: 600px;
+  max-width: 100%;
+  padding: 1em;
+  position: relative;
+}
+
+.product h1 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+}
+
+.product .actions {
+  right: 1em;
+  top: 10px;
+}
+
